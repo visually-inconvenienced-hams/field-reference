@@ -2,7 +2,7 @@
 
 The Amateur Radio Field Reference by Gregory David Rosenberg, AB9MZ — Edition 2.0, October 31, 2026. 22 sections, 112 pages, in large print (22 point text, 28 point headings).
 
-This is the reference book for the [Visually Inconvenienced Hams](https://www.facebook.com/groups/742838019382868/) Facebook group, a public group for blind and visually impaired amateur radio operators. The book is also posted to the group's Files section, one file per section in each format.
+This is the reference book for the [Visually Inconvenienced Hams](https://www.facebook.com/groups/742838019382868/) Facebook group, a public group for blind and visually impaired amateur radio operators. The book lives in the group's document library, alongside everything else that used to be in the group's Files section: https://visually-inconvenienced-hams.github.io/vih-library/
 
 ## What is here
 
