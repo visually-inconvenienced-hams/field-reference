@@ -14,7 +14,7 @@ Built from master.json (Edition 2.0, 2026-10-31) by build_field_reference.py. Ea
 | cw | 39 | 673 | 40 | 2 | 663 | OK |
 | qsignals | 67 | 1732 | 77 | 4 | 1624 | OK |
 | reports | 54 | 1320 | 65 | 3 | 1219 | OK |
-| bands | 177 | 6989 | 289 | 12 | 6724 | OK |
+| bands | 177 | 7119 | 293 | 12 | 6858 | OK |
 | digital | 95 | 3980 | 156 | 7 | 3636 | OK |
 | station | 105 | 5204 | 189 | 8 | 4523 | OK |
 | deployment | 37 | 1863 | 67 | 3 | 1590 | OK |
@@ -28,7 +28,7 @@ Built from master.json (Edition 2.0, 2026-10-31) by build_field_reference.py. Ea
 | forms | 163 | 3677 | 255 | 11 | 4570 | OK |
 | weather | 30 | 1128 | 48 | 2 | 976 | OK |
 | reference | 28 | 1076 | 40 | 2 | 952 | OK |
-| AB9MZ_Amateur_Radio_Field_Reference | 1328 | 47991 | 2033 | 91 | 44642 | OK |
+| AB9MZ_Amateur_Radio_Field_Reference | 1328 | 48121 | 2037 | 91 | 44776 | OK |
 
 Totals: 23 .txt files, 23 .brf files, 94 Braille pages across the 22 section files.
 

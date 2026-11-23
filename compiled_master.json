@@ -1907,7 +1907,7 @@
           ],
           "refs": "1",
           "group": "Bands",
-          "note": "Technician through Extra; sharing and technical restrictions apply. This is an allocation overview, not a repeater or channel plan. 3.3-3.5 GHz is not listed as a current US amateur allocation. Higher bands require a separate current-rule check.",
+          "note": "Technician through Extra; sharing and technical restrictions apply. This is an allocation overview, not a repeater or channel plan. The 9 centimeter band, 3300 to 3450 MHz, is open to amateurs on a secondary basis, all modes, with no set end date under FCC footnote US103. The 3450 to 3500 MHz part ended on April 14, 2022. Higher bands require a separate current-rule check.",
           "id": "bands-13",
           "section_id": "bands",
           "archiveIndex": 43,
@@ -2975,7 +2975,7 @@
     }
   ],
   "font_family": "Helvetica",
-  "revision": "b2bee2e24d0c",
+  "revision": "bbf3bbeaa47f",
   "source_pages": [
     {
       "id": "sources-1",
